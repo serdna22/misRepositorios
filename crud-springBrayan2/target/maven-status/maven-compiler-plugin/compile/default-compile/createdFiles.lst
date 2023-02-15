@@ -1,0 +1,6 @@
+com\crud\BrayanSpringApplication.class
+com\crud\modeloDao\IPersona.class
+com\crud\serviceInterface\IPersonaService.class
+com\crud\service\PersonaService.class
+com\crud\modelo\Persona.class
+com\crud\controler\PersonaControler.class
